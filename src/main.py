@@ -1,9 +1,6 @@
-from noun import noun
+from Word import Word
 
-sigma = noun("sigma", ["s", "i", "g", "m", "a"], "sigma", "neuter")
-
-sigma.setGender("masculine")
-print(sigma.search())
-
-sigma.add()
-print(sigma.search())
+skibidi = Word("skibidi", ["s", "k", "i", 'b'], "skibidi", "Noun")
+skibidi.add()
+skibidi.append("word", "sigma")
+skibidi.delete()

@@ -1,53 +1,6 @@
 {
-    "nouns": {
-        "\u0113tu": {
-            "spelling": [
-                "\u0113",
-                "t",
-                "u"
-            ],
-            "meaning": "thing",
-            "gender": "neuter"
-        },
-        "\u2019v\u00e5nu": {
-            "spelling": [
-                "v",
-                "\u00e5",
-                "n",
-                "u"
-            ],
-            "meaning": "water",
-            "gender": "neuter"
-        },
-        "f\u014d\u00f1o": {
-            "spelling": [
-                "f",
-                "\u014d",
-                "\u00f1",
-                "o"
-            ],
-            "meaning": "rock",
-            "gender": "masculine"
-        },
-        "no:vo": {
-            "spelling": [
-                "n",
-                "o:",
-                "v",
-                "o"
-            ],
-            "meaning": "person",
-            "gender": "masculine"
-        },
-        "v\u00e6no": {
-            "spelling": [
-                "v",
-                "\u00e6",
-                "n",
-                "o"
-            ],
-            "meaning": "love",
-            "gender": "masculine"
-        }
+    "Words": {
+        "Noun": {},
+        "Verb": {}
     }
 }
